@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="btn_capture">Chụp ảnh</string>
+</resources>
